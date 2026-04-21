@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="LinearDataStructures/LinearDataStructures.csproj" />
+  <Project Path="RedisLab/RedisLab.csproj" Id="96b2bbe9-467c-46d3-b3c4-2b5997f40968" />
 </Solution>
