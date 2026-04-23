@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="DistributedCaching/DistributedCaching.csproj" Id="765bc8db-5c1f-4fd1-8aed-271592f214d6" />
   <Project Path="LinearDataStructures/LinearDataStructures.csproj" />
   <Project Path="RedisLab/RedisLab.csproj" Id="96b2bbe9-467c-46d3-b3c4-2b5997f40968" />
+  <Project Path="DistributedCaching/DistributedCaching.csproj" />
 </Solution>
